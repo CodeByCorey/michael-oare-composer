@@ -1,0 +1,29 @@
+.image-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.main-overlay {
+    max-height: 500px;
+}
+
+.blank-bottom {
+    padding-bottom: 10rem;
+}
+
+.about-overlay {
+    margin: -10rem 0 5rem 0;
+    padding: 0;
+}
+
+.about-image {
+    background-image: url('./music-book.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+}
+
+.outer-shadow {
+    box-shadow: 0 0 10rem rgba(0, 0, 0, 255) !important;
+}
